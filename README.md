@@ -7,8 +7,10 @@ This project used Reinforcement Learning and Q-Learning to make a Self Driving C
 The objective of the project was to train a car (the white box along with the colored circles which are sensors for the car) so that it can follow an randomly drawn road (in yellow) and move from airport (top left corner) to downtown (bottom right corner) and back. And, as expected, the car should not be crossing the road.
 This project was a part of an Udemy course on AI which I completed.
 
+1: Without any road drawn:
 ![1: Wihout any road drawn](https://github.com/soumyasanyal/DeepQLearning/blob/master/img1.gif)
 
+2: With a road drawn:
 ![2: Wihout a road drawn](https://github.com/soumyasanyal/DeepQLearning/raw/master/img2.gif)
 
 
