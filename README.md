@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Virtual Self Drivng Car Model
+This project used Reinforcement Learning and Q-Learning to make a Self Driving Car Model(from bottom right of the map to the top left of the map) that also adapts to LIVE changes in the map. 
 
-You can use the [editor on GitHub](https://github.com/bsaiashish/Virtual-Self-Driving-Car-Model/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## INTRODUCTION
 
-### Markdown
+The objective of the project was to train a car (the white box along with the colored circles which are sensors for the car) so that it can follow an randomly drawn road (in yellow) and move from airport (top left corner) to downtown (bottom right corner) and back. And, as expected, the car should not be crossing the road.
+This project was a part of an Udemy course on AI which I completed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![1: Wihout any road drawn](https://github.com/soumyasanyal/DeepQLearning/blob/master/img1.gif)
 
-```markdown
-Syntax highlighted code block
+![2: Wihout a road drawn](https://github.com/soumyasanyal/DeepQLearning/raw/master/img2.gif)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-1. Numbered
-2. List
+## License
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-**Bold** and _Italic_ and `Code` text
+## Acknowledgements
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bsaiashish/Virtual-Self-Driving-Car-Model/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
