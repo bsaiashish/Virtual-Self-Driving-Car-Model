@@ -8,7 +8,7 @@ The objective of the project was to train a car (the white box along with the co
 This project was a part of an Udemy course on AI which I completed.
 
 1: Without any road drawn:
-![1: Wihout any road drawn](https://github.com/soumyasanyal/DeepQLearning/blob/master/img1.gif)
+![1: Wihout any road drawn](https://raw.githubusercontent.com/soumyasanyal/DeepQLearning/master/img1.gif)
 
 2: With a road drawn:
 ![2: Wihout a road drawn](https://github.com/soumyasanyal/DeepQLearning/raw/master/img2.gif)
